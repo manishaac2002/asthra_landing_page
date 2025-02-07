@@ -71,3 +71,32 @@ export const AsthraPatternLeft = () => {
     </svg>
   );
 };
+
+export const Stars = () => {
+  return (
+    <svg
+      width="349"
+      height="364"
+      viewBox="0 0 349 364"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M202.04 36.1083C182.597 108.659 225.648 183.234 298.199 202.678C225.648 183.234 151.073 226.286 131.63 298.837C151.073 226.286 108.021 151.711 35.4705 132.267C108.021 151.711 182.597 108.659 202.04 36.1083Z"
+        fill="#F4F5F8"
+        stroke="#F4F5F8"
+        stroke-width="2.60068"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+      <path
+        d="M290.433 231.656C281.855 263.663 300.849 296.564 332.856 305.142C300.849 296.564 267.948 315.557 259.37 347.565C267.948 315.557 248.954 282.657 216.947 274.079C248.954 282.657 281.855 263.663 290.433 231.656Z"
+        fill="#F4F5F8"
+        stroke="#F4F5F8"
+        stroke-width="2.60068"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </svg>
+  );
+};
