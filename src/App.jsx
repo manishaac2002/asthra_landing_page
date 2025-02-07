@@ -5,15 +5,17 @@ import NavBar from './components/NavBar'
 import AboutUs from './components/AboutUs'
 import ProductServices from './components/ProductServices'
 import Contact from './components/Contact'
+import Career from './components/Career'
 
 function App() {
 
   return (
     <>
    <NavBar/>
-   {/* <Home />
-   <AboutUs /> */}
+   <Home />
+   <AboutUs />
    <ProductServices />
+   <Career/>
    <Contact/>
    </>
   )
