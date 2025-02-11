@@ -4,7 +4,7 @@ import { Stars } from "../Icons/AsthraPattern";
 const Career = () => {
   return (
     <div>
-      <div className="absolute sm:left-50 md:left-50 lg:left-60 xl:left-200 -z-50 opacity-50 sm:opacity-75 md:opacity-100 w-[10rem] sm:w-[15rem] md:w-[20rem] lg:w-[25rem] xl:w-[30rem] max-w-none ">
+      <div id="careers" className="absolute sm:left-50 md:left-50 lg:left-60 xl:left-200 -z-50 opacity-50 sm:opacity-75 md:opacity-100 w-[10rem] sm:w-[15rem] md:w-[20rem] lg:w-[25rem] xl:w-[30rem] max-w-none ">
         <Stars />
       </div>
 

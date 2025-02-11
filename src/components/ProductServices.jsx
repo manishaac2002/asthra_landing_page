@@ -6,9 +6,9 @@ import { AsthraPatternLeft, AsthraPatternRight } from "../Icons/AsthraPattern";
 
 const ProductServices = () => {
   return (
-    <div className="ml-auto">
+    <div id="products" className="ml-auto">
       <div>
-        <p className="text-[#213B6D] text-xl ml-40 md:ml-0 md:text-4xl font-bold text-center pt-24">
+        <p className="text-[#213B6D] text-xl ml-50 md:ml-0 md:text-4xl font-bold text-center pt-24">
           Product & Service
         </p>
       </div>
