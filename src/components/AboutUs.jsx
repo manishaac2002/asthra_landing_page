@@ -4,7 +4,7 @@ import vision from "../images/Vision.webp"
 
 const AboutUs = () => {
   return (
-    <div id="about" className="mt-60 md:mt-80 xl:mt-100 bg-blue-50 w-full">
+    <div id="about" className="mt-60 md:mt-80 xl:mt-100 bg-blue-50 ">
       <div className="mt-5">
         <p className="text-center font-bold text-4xl text-[#213B6D] pt-10">
         Our Guiding Philosophy
