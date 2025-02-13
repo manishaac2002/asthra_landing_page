@@ -13,7 +13,7 @@ const ProductServices = () => {
         </p>
       </div>
 
-      <div className="absolute right-0 -z-50 opacity-50 sm:opacity-75 md:opacity-100 w-40 sm:w-60 md:w-80 lg:w-auto">
+      <div className="absolute md:right-0 opacity-50 sm:opacity-75 md:opacity-100 ">
         <AsthraPatternRight />
       </div>
 
@@ -34,9 +34,9 @@ const ProductServices = () => {
         </div>
       </div>
 
-      <div className="absolute -z-50 opacity-50 sm:opacity-75 md:opacity-100 w-40 sm:w-60 md:w-80 lg:w-auto">
+      {/* <div className="absolute -z-50 opacity-50 sm:opacity-75 md:opacity-100 w-40 sm:w-60 md:w-80 lg:w-auto">
         <AsthraPatternLeft/>
-      </div>
+      </div> */}
 
       <div className="hidden lg:grid grid-cols-2 gap-10 mt-10 md:mt-24 ml-32 lg:ml-0 md:mx-28 lg:mx-32 xl:mx-72 ">
         <div className="mt-24 ">

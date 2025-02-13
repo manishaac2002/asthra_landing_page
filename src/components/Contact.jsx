@@ -4,7 +4,7 @@ import mail from "../images/mail.png"
 
 const Contact = () => {
   return (
-    <div id="contact" className="bg-[#213B6D] w-full min-w-full mt-24">
+    <div id="contact" className="bg-[#213B6D] w-full mt-24">
       <div className="grid grid-cols-2">
         <div className="">
           <p className="md:text-lg lg:text-xl font-bold text-[#F2F2F2] pt-5 px-16 md:px-20">
