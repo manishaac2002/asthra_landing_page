@@ -1,4 +1,3 @@
-import React from "react";
 import { Stars } from "../Icons/AsthraPattern";
 
 const Career = () => {
