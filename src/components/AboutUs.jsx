@@ -19,7 +19,7 @@ const AboutUs = () => {
           <div className="">
             <img className="rounded-full sm:w-12 " src={mission} alt="mission" />
             <p className="mt-3 text-2xl xl:text-3xl text-[#213B6D]">MISSION</p>
-            <p className="mt-5 md:text-lg text-justify ">
+            <p className="mt-5 md:text-lg text-justify leading-[2rem]">
               Our mission is to revolutionise healthcare by leveraging advanced
               technologies like ML, AI, robotics, AR and VR. We are committed to
               empowering medical professionals with innovative technologies that
@@ -28,10 +28,10 @@ const AboutUs = () => {
               reliability.
             </p>
           </div>
-          <div className="md:mt-8 lg:mt-0 py-4">
+          <div className="md:mt-8 lg:mt-0 ">
             <img className="rounded-full sm:w-12 " src={vision} alt="vision" />
             <p className="mt-3 text-2xl xl:text-3xl text-[#213B6D]">VISION</p>
-            <p className="mt-5 msd:text-lg text-justify pb-16">
+            <p className="mt-5 msd:text-lg text-justify pb-16 leading-[2rem]">
               To be the global leader in advanced medical solutions, shaping the
               future of care with breakthrough technologies that make healthcare
               more accessible, effective, and minimally invasive. We envision a

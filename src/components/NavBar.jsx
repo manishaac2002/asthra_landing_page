@@ -3,7 +3,7 @@ import asthra from "../images/Asthra.webp";
 
 const NavBar = () => {
   return (
-    <div className="m-8 md:m-10 flex">
+    <div className="flex sticky top-0 bg-white shadow-md z-50 p-4 ">
       <div>
         <img className="w-24 lg:w-36" src={asthra} alt="Asthra" />
       </div>
