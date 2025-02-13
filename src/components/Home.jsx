@@ -1,11 +1,10 @@
-import React from "react";
 import armRobo from "../images/ArmRobo.webp"
 
 
 const Home = () => {
   return (
     <>
-      <div id="home" className="absolute left-4 md:left-30 xl:left-80 2xl:left-180 pb-52 w-sm md:w-xl lg:w-2xl xl:w-3xl 2xl:w-4xl">
+      <div id="home" className="absolute left-4 md:left-30 lg:left-50 xl:left-80 2xl:left-180 pb-52 w-sm md:w-xl lg:w-2xl xl:w-3xl 2xl:w-4xl">
         <img src={armRobo} alt="armrobo" />
       </div>
     <div className=" pl-10 sm:pl-24 md:pl-10 lg:pl-38 xl:pl-68 mt-38 md:mt-56 lg:mt-68 xl:mt-72 mr-10 lg:mr-20 xl:mr-40 ">

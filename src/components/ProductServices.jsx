@@ -1,5 +1,3 @@
-import React from "react";
-
 import scan from "../images/Scan.webp";
 import asthraRobot from "../images/AsthraRobot.webp";
 import doctorScan from "../images/DoctorScan.webp";
@@ -8,14 +6,14 @@ import { AsthraPatternLeft, AsthraPatternRight } from "../Icons/AsthraPattern";
 const ProductServices = () => {
   return (
     <div id="products" className="min-h-screen">
-      <div>
-        <p className="text-[#213B6D] text-xl ml-50 md:ml-0 md:text-4xl font-bold text-center pt-24">
+      <div className="pt-24">
+        <p className="text-[#213B6D] text-xl md:text-4xl font-bold text-center ">
           Product & Service
         </p>
       </div>
 
       <div className="absolute right-0 opacity-50 sm:opacity-75 md:opacity-100 ">
-        <AsthraPatternRight className="w-16 h-16 sm:w-24 sm:h-24 md:w-32 md:h-32" />
+        <AsthraPatternRight className="" />
       </div>
 
       <div className="lg:grid grid-cols-2 lg:gap-10 mt-10 md:mt-24 ">
