@@ -48,7 +48,6 @@ const ProductServices = () => {
           </p>
         </div>
       </div>
-
       <div className="absolute -z-50 opacity-50 sm:opacity-75 md:opacity-100 w-40 sm:w-60 md:w-80 lg:w-auto">
         <AsthraPatternLeft />
       </div>
