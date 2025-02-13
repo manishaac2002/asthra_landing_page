@@ -6,7 +6,7 @@ import { AsthraPatternLeft, AsthraPatternRight } from "../Icons/AsthraPattern";
 
 const ProductServices = () => {
   return (
-    <div id="products" className="ml-auto">
+    <div id="products" className="ml-auto min-h-screen">
       <div>
         <p className="text-[#213B6D] text-xl ml-50 md:ml-0 md:text-4xl font-bold text-center pt-24">
           Product & Service
@@ -34,9 +34,9 @@ const ProductServices = () => {
         </div>
       </div>
 
-      {/* <div className="absolute -z-50 opacity-50 sm:opacity-75 md:opacity-100 w-40 sm:w-60 md:w-80 lg:w-auto">
+      <div className="absolute -z-50 opacity-50 sm:opacity-75 md:opacity-100 w-40 sm:w-60 md:w-80 lg:w-auto">
         <AsthraPatternLeft/>
-      </div> */}
+      </div>
 
       <div className="hidden lg:grid grid-cols-2 gap-10 mt-10 md:mt-24 ml-32 lg:ml-0 md:mx-28 lg:mx-32 xl:mx-72 ">
         <div className="mt-24 ">

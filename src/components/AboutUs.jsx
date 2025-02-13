@@ -28,7 +28,7 @@ const AboutUs = () => {
         <div className="md:mt-8 lg:mt-0 pb-5">
           <img className="rounded-full " src={vision} alt="vision" />
           <p className="mt-3 text-3xl text-[#213B6D]">VISION</p>
-          <p className="mt-5 text-lg text-justify mb-16">
+          <p className="mt-5 text-lg text-justify pb-16">
             To be the global leader in advanced medical solutions, shaping the
             future of care with breakthrough technologies that make healthcare
             more accessible, effective, and minimally invasive. We envision a
@@ -40,9 +40,7 @@ const AboutUs = () => {
         </div>
       </div>
     </div>
-    <div className="bg-amber-50">
-    test
-    </div>
+    
     </>
 
   );
