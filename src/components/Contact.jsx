@@ -13,12 +13,9 @@ const Contact = () => {
             292/1B Sharp Nagar, Kalapatti Road, Kalapatti, Coimbatore 641 048
           </p>
         </div>
-        <div className="px-2 md:px-4 lg:px-6 xl:px-8 flex justify-end ">
+        <div className="px-10 flex justify-end ">
         <a className="py-8" href="https://www.linkedin.com/company/asthra-medtech/">
           <img className="ml-auto w-6 lg:w-8" src={linkedin} alt="linkedin" />
-        </a>
-        <a className="py-8 pl-8" href="https://www.linkedin.com/company/asthra-medtech/">
-          <img className="ml-auto w-6 lg:w-8 " src={mail} alt="linkedin" />
         </a>
         </div>
       </div>
