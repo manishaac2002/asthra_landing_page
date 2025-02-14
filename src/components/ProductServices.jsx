@@ -16,12 +16,12 @@ const ProductServices = () => {
         <AsthraPatternRight className="" />
       </div>
 
-      <div className="lg:grid grid-cols-2 lg:gap-10 mt-10 md:mt-24 ">
-        <div className="lg:pl-56 xl:pl-100">
-          <img className="md:w-96 lg:w-140" src={asthraRobot} alt="Doctor" />
+      <div className="xl:grid grid-cols-2 lg:gap-20 2xl:gap-10 mt-10 md:mt-24 ">
+        <div className="ml-20 md:ml-30 lg:ml-74 xl:ml-48 2xl:ml-96">
+          <img className="w-68 md:w-72 lg:w-100 xl:w-180 2xl:w-140  " src={asthraRobot} alt="Doctor" />
         </div>
 
-        <div className="mt-5 md:mt-16 lg:mt:24 ">
+        <div className="mt-5 md:mt-16 lg:mt:24 ml-5 md:ml-26 lg:ml-16 xl:ml-0 mr-5 md:mr-0">
           <p className="text-[#FFA726] text-2xl xl:text-3xl font-bold mt-4 lg:mt-0">
             Tele - Robotic UltraSound System
           </p>
@@ -59,7 +59,7 @@ const ProductServices = () => {
         <AsthraPatternLeft />
       </div>
 
-      <div className="hidden lg:grid grid-cols-2 gap-10 mt-10 md:mt-24 ml-32 lg:ml-0 ">
+      <div className="hidden xl:grid grid-cols-2 gap-10 mt-10 md:mt-24 ml-32 lg:ml-0 ">
         <div className="pl-34">
           <p className="text-[#FFA726] text-3xl font-bold">
             Surgical Simulator
@@ -107,12 +107,12 @@ const ProductServices = () => {
         </div>
       </div>
 
-      <div className="mt-10 md:mt-24 ml-32 lg:ml-0 md:mx-28 lg:mx-32 xl:mx-72 lg:hidden">
-        <div>
-          <img className=" md:w-96 lg:w-130" src={doctorScan} alt="doctor" />
+      <div className="mt-10 md:mt-24  xl:hidden">
+        <div className=" ml-18 md:ml-28 lg:ml-64">
+          <img className=" w-72 md:w-96 lg:w-130" src={doctorScan} alt="doctor" />
         </div>
 
-        <div className="">
+        <div className="ml-5 mr-5 md:ml-24 lg:ml-16 mt-16">
           <p className="text-[#FFA726] text-2xl xl:text-3xl font-bold mt-4 lg:mt-0">
             Surgical Simulator
           </p>
@@ -150,12 +150,12 @@ const ProductServices = () => {
         </div>
       </div>
 
-      <div className="lg:grid grid-cols-2 gap-10 mt-10 md:mt-24 ml-32 lg:ml-0 ">
-        <div className="pl-34">
-          <img className=" md:w-96 lg:w-160 " src={scan} alt="Scan" />
+      <div className="xl:grid grid-cols-2 lg:gap-20 2xl:gap-10 mt-10 md:mt-24 ">
+        <div className=" ml-18 md:ml-34 lg:ml-54 xl:ml-16 2xl:ml-96 ">
+          <img className="w-72 md:w-96 lg:w-120 xl:w-160" src={scan} alt="Scan" />
         </div>
 
-        <div className="">
+        <div className="mr-5 ml-5 md:ml-34 lg:ml-16 mt-10 lg:mt-16 xl:mt-0">
           <p className="text-[#FFA726] text-2xl xl:text-3xl font-bold mt-4 lg:mt-0">
             Medical SaaS
           </p>
