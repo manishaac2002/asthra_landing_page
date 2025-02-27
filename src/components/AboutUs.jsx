@@ -6,7 +6,7 @@ const AboutUs = () => {
     <>
       <div
         id="about"
-        className=" mt-34 sm:mt-60 md:mt-80 xl:mt-100 w-full bg-blue-50 "
+        className="w-full bg-blue-50 "
       >
         <div className="mt-5">
           <p className="text-center font-bold text-xl md:text-2xl lg:text-3xl xl:text-4xl text-[#213B6D] pt-10">
