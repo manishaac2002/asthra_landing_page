@@ -1,13 +1,9 @@
-import mission from "../images/Mission.webp";
-import vision from "../images/Vision.webp";
+import { OruMissionIcon, OurVissionIcon } from "../Icons/AsthraPattern";
 
 const AboutUs = () => {
   return (
     <>
-      <div
-        id="about"
-        className="w-full bg-blue-50 "
-      >
+      <div id="about" className="w-full bg-blue-50 ">
         <div className="mt-5">
           <p className="text-center font-bold text-xl md:text-2xl lg:text-3xl xl:text-4xl text-[#213B6D] pt-10">
             Our Guiding Philosophy
@@ -16,8 +12,11 @@ const AboutUs = () => {
 
         <div className="lg:grid grid-cols-2 mt-16 px-8 md:px-12 lg:px-30 gap-8 md:gap-12 lg:gap-16 ">
           <div className="">
-            <img className="rounded-full w-10 md:w-12 " src={mission} alt="mission" />
-            <p className="pt-3 text-xl md:text-2xl xl:text-3xl text-[#213B6D]">MISSION</p>
+          
+            <OruMissionIcon />
+            <p className="pt-3 text-xl md:text-2xl xl:text-3xl text-[#213B6D]">
+              MISSION
+            </p>
             <p className="pt-3 md:pt-5 md:text-lg text-justify leading-[1.75rem]">
               Our mission is to revolutionise healthcare by leveraging advanced
               technologies like ML, AI, robotics, AR and VR. We are committed to
@@ -27,9 +26,12 @@ const AboutUs = () => {
               reliability.
             </p>
           </div>
+
           <div className="pt-8 lg:pt-0 ">
-            <img className="rounded-full w-10 md:w-12 " src={vision} alt="vision" />
-            <p className="pt-3 text-xl md:text-2xl xl:text-3xl text-[#213B6D]">VISION</p>
+            <OurVissionIcon />
+            <p className="pt-3 text-xl md:text-2xl xl:text-3xl text-[#213B6D]">
+              VISION
+            </p>
             <p className="pt-3 md:pt-5 msd:text-lg text-justify pb-16 leading-[1.75rem]">
               To be the global leader in advanced medical solutions, shaping the
               future of care with breakthrough technologies that make healthcare
