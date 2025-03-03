@@ -18,7 +18,7 @@ const Career = () => {
           We are always looking for passionate researchers, engineers, and
           innovators to join our team.
         </p>
-        <p className="text-center lg:text-xl pt-2 text-[#213B6D] font-bold">Contact :</p>
+        <p className="text-center lg:text-xl pt-2 text-[#213B6D] font-bold">Contact</p>
         <a
           href="admin@asthramedtech.com"
           className="block text-center lg:text-xl pt-2 text-[#213B6D] underline"

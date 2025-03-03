@@ -40,16 +40,16 @@ const ProductServices = () => {
             , no matter the distance.
           </p>
           <ul className="pt-4 lg:text-xl space-y-2 list-none px-6 md:px-8 lg:px-10">
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               2 way audio and video
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Real time diagnosis
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Portable & standalone
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Advance AI features to help doctors
             </li>
           </ul>
@@ -79,19 +79,19 @@ const ProductServices = () => {
             development.
           </p>
           <ul className="lg:text-xl  mt-4 text-justify mr-14 space-y-2 list-none px-6 md:px-8 lg:px-10">
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Portable, Standalone & sleek.{" "}
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Superior graphics, arm motion and interactions.{" "}
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Improved physics in control arm modules.{" "}
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Customizable Robotic Skills Assessment Score.{" "}
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Exercises with orientation, motor, basic & intermediate surgical
               skills.
             </li>
@@ -131,19 +131,19 @@ const ProductServices = () => {
             development.
           </p>
           <ul className="lg:text-xl mt-4 space-y-2 list-none px-6 md:px-8 lg:px-10 ">
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Portable, Standalone & sleek.
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Superior graphics, arm motion and interactions.
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Improved physics in control arm modules.
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Customizable Robotic Skills Assessment Score.
             </li>
-            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+            <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
               Exercises with orientation, motor, basic & intermediate surgical skills .
             </li>
           </ul>
@@ -172,13 +172,13 @@ const ProductServices = () => {
             allows you to focus on what truly matters—delivering exceptional
             care to your patients.
             <ul className="mt-4 space-y-2 list-none px-6 md:px-8 lg:px-10">
-              <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+              <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
                 HIPAA compliant.{" "}
               </li>
-              <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+              <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
                 Secure, real-time access to vital patient information.{" "}
               </li>
-              <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['★'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
+              <li className="relative pl-6 md:pl-8 lg:pl-10 before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:content-['✦'] before:text-[#FFA726] before:text-xl md:before:text-2xl lg:before:text-3xl  ">
                 User-friendly interface & customizable features.{" "}
               </li>
             </ul>
