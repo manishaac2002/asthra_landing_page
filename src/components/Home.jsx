@@ -1,4 +1,5 @@
 import vector from "../assets/Vector.svg";
+import Contact from "./Contact.jsx";
 
 const Home = () => {
   return (
@@ -18,7 +19,7 @@ const Home = () => {
           <img src={vector} alt="asthramedtech-vector"/>
         </div>
       </div>
-     
+     <Contact/>
     </>
   );
 };
