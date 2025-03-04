@@ -101,7 +101,6 @@ export const Stars = () => {
   );
 };
 
-
 export const AsthraLogo = () => {
   return (
     <svg

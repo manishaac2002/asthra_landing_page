@@ -3,9 +3,9 @@ import { AsthraLogo } from "../Icons/AsthraPattern";
 
 const NavBar = () => {
   return (
-    <div className="flex sticky top-0 bg-white shadow-md z-50 p-4">
+    <nav className="fixed top-0 left-0 w-full bg-white shadow-md z-50 h-16 flex items-center px-6">
       {/* Logo */}
-      <div>
+      <div> 
         <Link to="/">
           <AsthraLogo />
         </Link>
@@ -31,7 +31,7 @@ const NavBar = () => {
           </li>
         </ul>
       </div>
-    </div>
+    </nav>
   );
 };
 

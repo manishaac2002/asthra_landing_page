@@ -10,7 +10,8 @@ import Career from './components/Career';
 function App() {
   return (
     <Router>
-      <NavBar />  {/* Keep NavBar outside Routes to make it persistent */}
+      <NavBar />  
+      <div className="custom-overflow scroll-smooth"></div>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<AboutUs />} />
