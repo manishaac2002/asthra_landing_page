@@ -21,7 +21,7 @@ const NavBar = () => {
             <Link to="/about">About Us</Link>
           </li>
           <li className="px-2 lg:px-4 xl:px-6 text-sm lg:text-lg text-[#213B6D] hover:text-[#FFA726] hover:font-semibold transition-all duration-300 ease-in-out">
-            <Link to="/products">Product & Services</Link>
+            <Link to="/products">Product</Link>
           </li>
           <li className="px-2 lg:px-4 xl:px-6 text-sm lg:text-lg text-[#213B6D] hover:text-[#FFA726] hover:font-semibold transition-all duration-300 ease-in-out">
             <Link to="/career">Careers</Link>

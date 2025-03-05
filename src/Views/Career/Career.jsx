@@ -1,5 +1,5 @@
-import { Rocket, Spaceman, Stars } from "../Icons/AsthraPattern";
-import ai from "../assets/ai.svg";
+import { Rocket, Spaceman, Stars } from "../../Icons/AsthraPattern";
+import ai from "../../Assets/ai.svg";
 
 const Career = () => {
   return (

@@ -1,14 +1,14 @@
-import scan from "../images/Scan.webp";
-import asthraRobot from "../images/AsthraRobot.webp";
-import doctorScan from "../images/DoctorScan.webp";
-import { AsthraPatternLeft, AsthraPatternRight } from "../Icons/AsthraPattern";
+import scan from "../../Images/Scan.webp";
+import asthraRobot from "../../Images/AsthraRobot.webp";
+import doctorScan from "../../Images/DoctorScan.webp";
+import { AsthraPatternLeft, AsthraPatternRight } from "../../Icons/AsthraPattern";
 
-const ProductServices = () => {
+const Product = () => {
   return (
     <div id="products" className="min-h-screen">
       <div className="pt-24">
         <p className="text-[#213B6D] text-xl md:text-4xl font-bold text-center ">
-          Product & Service
+          Products
         </p>
       </div>
 
@@ -191,4 +191,4 @@ const ProductServices = () => {
 
 //bg
 
-export default ProductServices;
+export default Product;

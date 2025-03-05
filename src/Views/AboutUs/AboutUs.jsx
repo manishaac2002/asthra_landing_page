@@ -1,4 +1,4 @@
-import { OruMissionIcon, OurVissionIcon } from "../Icons/AsthraPattern";
+import { OruMissionIcon, OurVissionIcon } from "../../Icons/AsthraPattern";
 
 const AboutUs = () => {
   return (

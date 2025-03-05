@@ -1,5 +1,4 @@
-import linkedin from "../images/linkedin.png";
-import mail from "../images/mail.png"
+import linkedin from "../Images/Linkedin.png";
 
 const Contact = () => {
   return (
