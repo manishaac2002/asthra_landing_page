@@ -3,8 +3,8 @@ import { OruMissionIcon, OurVissionIcon } from "../Icons/AsthraPattern";
 const AboutUs = () => {
   return (
     <>
-      <div id="about" className="w-full bg-blue-50 ">
-        <div className="mt-5">
+      <div id="about" className="w-full bg-blue-50">
+        <div className="mt-10">
           <p className="text-center font-bold text-xl md:text-2xl lg:text-3xl xl:text-4xl text-[#213B6D] pt-10">
             Our Guiding Philosophy
           </p>
@@ -44,6 +44,7 @@ const AboutUs = () => {
           </div>
         </div>
       </div>
+      
     </>
   );
 };
